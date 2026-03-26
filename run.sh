@@ -38,7 +38,7 @@ newman run collection.json \
 
 # Check if the report was created
 if [ -f "report.html" ]; then
-    echo "Newman run complete! Report generated at results/report.html"
+    echo "Newman run complete! Report generated at report.html"
     xdg-open report.html
 else
     echo "❌ Newman run failed. Check errors above."
