@@ -22,6 +22,7 @@
                   "pm.test(\"Status code is 200\", () => {\r",
                   "    pm.response.to.have.status(200);\r",
                   "});\r",
+                  "pm.environment.set(\"access_token\", jsonData.accessToken);\r",
                   "\r",
                   "pm.test(\"User id correct\", () => {\r",
                   "    pm.expect(jsonData.id).to.eql(pm.iterationData.get(\"userId\"));\r",
