@@ -1,0 +1,102 @@
+[
+  {
+    "userId": 1,
+    "loginUsername": "emilys",
+    "loginPassword": "emilyspass",
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "age": 29,
+    "gender": "female",
+    "updateFirstName": "UpdatedEmily"
+  },
+  {
+    "userId": 2,
+    "loginUsername": "michaelw",
+    "loginPassword": "michaelwpass",
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "age": 36,
+    "gender": "male",
+    "updateFirstName": "UpdatedMichael"
+  },
+  {
+    "userId": 3,
+    "loginUsername": "sophiab",
+    "loginPassword": "sophiabpass",
+    "firstName": "Sophia",
+    "lastName": "Brown",
+    "age": 43,
+    "gender": "female",
+    "updateFirstName": "UpdatedSophia"
+  },
+  {
+    "userId": 4,
+    "loginUsername": "jamesd",
+    "loginPassword": "jamesdpass",
+    "firstName": "James",
+    "lastName": "Davis",
+    "age": 46,
+    "gender": "male",
+    "updateFirstName": "UpdatedJames"
+  },
+  {
+    "userId": 5,
+    "loginUsername": "emmaj",
+    "loginPassword": "emmajpass",
+    "firstName": "Emma",
+    "lastName": "Miller",
+    "age": 31,
+    "gender": "female",
+    "updateFirstName": "UpdatedEmma"
+  },
+  {
+    "userId": 6,
+    "loginUsername": "oliviaw",
+    "loginPassword": "oliviawpass",
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "age": 23,
+    "gender": "female",
+    "updateFirstName": "UpdatedOlivia"
+  },
+  {
+    "userId": 7,
+    "loginUsername": "alexanderj",
+    "loginPassword": "alexanderjpass",
+    "firstName": "Alexander",
+    "lastName": "Jones",
+    "age": 39,
+    "gender": "male",
+    "updateFirstName": "UpdatedAlexander"
+  },
+  {
+    "userId": 8,
+    "loginUsername": "avat",
+    "loginPassword": "avatpass",
+    "firstName": "Ava",
+    "lastName": "Taylor",
+    "age": 28,
+    "gender": "female",
+    "updateFirstName": "UpdatedAva"
+  },
+  {
+    "userId": 9,
+    "loginUsername": "ethanm",
+    "loginPassword": "ethanmpass",
+    "firstName": "Ethan",
+    "lastName": "Martinez",
+    "age": 34,
+    "gender": "male",
+    "updateFirstName": "UpdatedEthan"
+  },
+  {
+    "userId": 10,
+    "loginUsername": "isabellad",
+    "loginPassword": "isabelladpass",
+    "firstName": "Isabella",
+    "lastName": "Anderson",
+    "age": 32,
+    "gender": "female",
+    "updateFirstName": "UpdatedIsabella"
+  }
+]
